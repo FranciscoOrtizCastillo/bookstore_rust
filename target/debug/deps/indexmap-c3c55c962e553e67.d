@@ -1,0 +1,14 @@
+/Users/paco/Proyectos/rust/bookstore_rust/target/debug/deps/indexmap-c3c55c962e553e67.rmeta: /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/lib.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/arbitrary.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/macros.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/equivalent.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/mutable_keys.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/util.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core/raw.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/set.rs
+
+/Users/paco/Proyectos/rust/bookstore_rust/target/debug/deps/indexmap-c3c55c962e553e67.d: /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/lib.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/arbitrary.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/macros.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/equivalent.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/mutable_keys.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/util.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core/raw.rs /Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/set.rs
+
+/Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/lib.rs:
+/Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/arbitrary.rs:
+/Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/macros.rs:
+/Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/equivalent.rs:
+/Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/mutable_keys.rs:
+/Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/util.rs:
+/Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map.rs:
+/Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core.rs:
+/Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/map/core/raw.rs:
+/Users/paco/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.9.3/src/set.rs:
